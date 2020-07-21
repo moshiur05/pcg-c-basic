@@ -19,5 +19,7 @@ at the sample code -- hopefully it should be fairly self explanatory.
 
 ## Functions
 pcg32_srandom_r(rngptr, initstate, initseq)
+
 pcg32_random_r(rngptr)
+
 pcg32_boundedrand_r(rngptr, bound)
